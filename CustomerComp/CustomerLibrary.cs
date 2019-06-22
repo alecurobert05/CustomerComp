@@ -10,8 +10,8 @@ namespace CustomerComp
     {
         public string LeadName { get; set; }
         public string PhoneNumber { get; set; }
-        public decimal BillAmountt { get; set; }
-        public DateTime BillDatee { get; set; }
+        public decimal BillAmount { get; set; }
+        public DateTime BillDate { get; set; }
         public string Address { get; set; }
     }
     public class Customer
