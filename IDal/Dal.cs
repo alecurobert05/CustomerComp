@@ -2,11 +2,19 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace IDal
 {
-    public class Dal
+    // Design pattern :- Repository Pattern
+    public interface IDataLayer<AnyType>
     {
+
+        void Add(AnyType obj);
+        void Delete(AnyType obj);
+        void Save();
+        List<AnyType> Get();
+
     }
+
+
 }

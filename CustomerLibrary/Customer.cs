@@ -2,57 +2,50 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
-namespace CustomerComp
+using ICustomerInterface;
+using Stratergy;
+namespace CustomerLibrary
 {
-    public class CustomerBase
-    {
-        public string CustomerName { get; set; }
-        public string PhoneNumber { get; set; }
-        public decimal BillAmount { get; set; }
-        public DateTime BillDate { get; set; }
-        public string Address { get; set; }
-        public virtual void Validate()
-        {
-            // Lasam aceasta sa fie definita de clasele copil
-        }
-    }
+
     public class Customer : CustomerBase
     {
-        //"Validate” -> metoda care valideaza propietatile de mai sus 
-        public override void Validate()
+        public Customer(IValidationStratergy<ICustomer> obj) : base(obj)
         {
-            if (CustomerName.Length == 0)
+
+        }
+        public override string Type
+        {
+            get
             {
-                throw new Exception("Customer Name is required");
+                return "Customer";
             }
-            if (PhoneNumber.Length == 0)
+            set
             {
-                throw new Exception("Phone number is required");
-            }
-            if (BillAmount > 0)
-            {
-                throw new Exception("Bill is required");
-            }
-            if (BillDate >= DateTime.Now)
-            {
-                throw new Exception("Bill date  is not proper");
+                _type = value;
             }
         }
+
     }
     public class Lead : CustomerBase
     {
-        public override void Validate()
+        public Lead(IValidationStratergy<ICustomer> obj) : base(obj)
         {
-            if (CustomerName.Length == 0)
+
+        }
+        public override string Type
+        {
+            get
             {
-                throw new Exception("Customer Name is required");
+                return "Lead";
             }
-            if (PhoneNumber.Length == 0)
+            set
             {
-                throw new Exception("Phone number is required");
+                _type = value;
             }
         }
+
     }
+
+
+
 }
