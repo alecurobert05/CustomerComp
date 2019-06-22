@@ -21,7 +21,7 @@ namespace AdoDalLayer
         void Open()
         {
             
-            objConnection = new SqlConnection(@"Data Source=localhost\SQL2008;Initial Catalog=DbCustomer;Integrated Security=True");
+            objConnection = new SqlConnection(@"Data Source=DESKTOP-TSAAMG3;Initial Catalog=DbCustomer;Integrated Security=True");
             objConnection.Open();
             objCommand = new SqlCommand();
             objCommand.Connection = objConnection;
