@@ -1,0 +1,37 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\AbstractDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\AbstractDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\IDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\AbstractDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\AbstractDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\AbstractDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\ICustomerInterface.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\IDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\ICustomerInterface.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\ICustomerInterface.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\IDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\IDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\obj\Debug\AbstractDal.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\obj\Debug\AbstractDal.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\obj\Debug\AbstractDal.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\obj\Debug\AbstractDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\AbstractDal\obj\Debug\AbstractDal.pdb

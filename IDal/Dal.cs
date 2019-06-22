@@ -8,13 +8,13 @@ namespace IDal
     // Design pattern :- Repository Pattern
     public interface IDataLayer<AnyType>
     {
-
+        
         void Add(AnyType obj);
         void Delete(AnyType obj);
         void Save();
         List<AnyType> Get();
-
+      
     }
-
-
+    
+  
 }

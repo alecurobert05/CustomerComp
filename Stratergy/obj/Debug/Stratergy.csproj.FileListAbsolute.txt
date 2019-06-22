@@ -1,0 +1,21 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\obj\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\Stratergy\obj\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\obj\Debug\Stratergy.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\obj\Debug\Stratergy.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\obj\Debug\Stratergy.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\obj\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\Stratergy\obj\Debug\Stratergy.pdb

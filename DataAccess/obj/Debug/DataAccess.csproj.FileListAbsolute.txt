@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\DataAccess\obj\Debug\DataAccess.pdb

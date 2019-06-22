@@ -1,0 +1,62 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\AdoDalLayer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\AdoDalLayer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\AbstractDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\AbstractDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\IDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\obj\Debug\AdoDalLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\obj\Debug\AdoDalLayer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\obj\Debug\AdoDalLayer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\ValidationStratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AdoDalLayer\bin\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\obj\Debug\AdoDalLayer.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\obj\Debug\AdoDalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\obj\Debug\AdoDalLayer.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\AdoDalLayer.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\AdoDalLayer.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\AdoDalLayer.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\AbstractDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\FactoryCustomer.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\ICustomerInterface.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\IDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\ValidationStratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\CustomerLibrary.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\AbstractDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\AbstractDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\FactoryCustomer.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\FactoryCustomer.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\ICustomerInterface.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\ICustomerInterface.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\IDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\IDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\ValidationStratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\CustomerLibrary.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\CustomerLibrary.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\obj\Debug\AdoDalLayer.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\AdoDalLayer\obj\Debug\AdoDalLayer.dll

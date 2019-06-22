@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ValidationStratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ValidationStratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\obj\Debug\ValidationStratergy.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\obj\Debug\ValidationStratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\ValidationStratergy\obj\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\ValidationStratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\ValidationStratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\ICustomerInterface.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\ICustomerInterface.pdb
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\ICustomerInterface.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\obj\Debug\ValidationStratergy.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\obj\Debug\ValidationStratergy.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\obj\Debug\ValidationStratergy.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\obj\Debug\ValidationStratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\ValidationStratergy\obj\Debug\ValidationStratergy.pdb

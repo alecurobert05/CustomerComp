@@ -6,12 +6,12 @@ using ICustomerInterface;
 using Stratergy;
 namespace CustomerLibrary
 {
-
+    
     public class Customer : CustomerBase
     {
-        public Customer(IValidationStratergy<ICustomer> obj) : base(obj)
+        public Customer(IValidationStratergy<ICustomer> obj)  : base(obj)
         {
-
+            
         }
         public override string Type
         {
@@ -24,11 +24,11 @@ namespace CustomerLibrary
                 _type = value;
             }
         }
-
+        
     }
     public class Lead : CustomerBase
     {
-        public Lead(IValidationStratergy<ICustomer> obj) : base(obj)
+        public Lead(IValidationStratergy<ICustomer> obj): base(obj)
         {
 
         }
@@ -43,9 +43,9 @@ namespace CustomerLibrary
                 _type = value;
             }
         }
-
+       
     }
+   
 
-
-
+    
 }

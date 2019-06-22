@@ -1,0 +1,79 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\AbstractDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\AdoDalLayer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\EfDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\AbstractDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\AdoDalLayer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\EfDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\IDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\obj\Debug\FactoryDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\obj\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\obj\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\FactoryDal.dll.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\ValidationStratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryDal\bin\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\obj\Debug\FactoryDal.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\obj\Debug\FactoryDal.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\obj\Debug\FactoryDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\FactoryDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\FactoryDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\FactoryDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\AbstractDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\AdoDalLayer.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\EfDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\ICustomerInterface.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\IDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\FactoryCustomer.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\CustomerLibrary.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\ValidationStratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\AbstractDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\AbstractDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\AdoDalLayer.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\AdoDalLayer.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\EfDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\EfDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\ICustomerInterface.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\ICustomerInterface.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\IDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\IDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\FactoryCustomer.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\FactoryCustomer.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\CustomerLibrary.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\CustomerLibrary.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\bin\Debug\ValidationStratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\obj\Debug\FactoryDal.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\FactoryDal\obj\Debug\FactoryDal.dll

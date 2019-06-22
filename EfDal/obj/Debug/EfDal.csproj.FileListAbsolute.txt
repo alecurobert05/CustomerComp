@@ -1,0 +1,52 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\EfDal.dll.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\EfDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\EfDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\AbstractDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\AbstractDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\IDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\obj\Debug\EfDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\obj\Debug\EfDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\obj\Debug\EfDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\EfDal\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\EfDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\EfDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\EfDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\AbstractDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\CustomerLibrary.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\ICustomerInterface.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\IDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\AbstractDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\AbstractDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\CustomerLibrary.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\CustomerLibrary.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\ICustomerInterface.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\ICustomerInterface.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\IDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\IDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\obj\Debug\EfDal.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\obj\Debug\EfDal.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\obj\Debug\EfDal.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\obj\Debug\EfDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\EfDal\obj\Debug\EfDal.pdb

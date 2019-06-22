@@ -2,22 +2,33 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
-namespace FactoryCustomer
+using ICustomerInterface;
+using CustomerLibrary;
+using Unity;
+using Unity.Injection;
+using ValidationStratergy;
+using Stratergy;
+namespace FactoryMiddlayer
 {
-    public class Factory
+    
+    public static class Factory<AnyType>
     {
-        public ICustomer Create(int CustomerType)
+        static IUnityContainer container = null;
+
+        public static AnyType Create(string Type)
         {
-            if (CustomerType == 0)
+            if (container == null)
             {
-                return new Lead();
+                container = new UnityContainer();
+
+                container.RegisterType<ICustomer, Customer>("Customer", 
+                                new InjectionConstructor(new CustomerAllValidation()));
+                container.RegisterType<ICustomer, Lead>("Lead", 
+                                    new InjectionConstructor(new LeadValidation()));
+
             }
-            else
-            {
-                return new Customer();
-            }
+            return container.Resolve<AnyType>(Type.ToString());
         }
+        
     }
 }

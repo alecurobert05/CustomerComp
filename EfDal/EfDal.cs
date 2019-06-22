@@ -12,11 +12,11 @@ namespace EfDal
     public class AbstractTemplateEF<Anytype> : DbContext,
                                         IDataLayer<Anytype> where Anytype : class
     {
-
-
-        public void Add(Anytype obj)
+        
+        
+        public void Add(Anytype obj) 
         {
-
+            
             Set<Anytype>().Add(obj);
         }
 
@@ -28,17 +28,17 @@ namespace EfDal
         public void Save()
         {
             SaveChanges();
-
+           
         }
         public virtual List<Anytype> Get()
         {
-            return Set<Anytype>().AsQueryable<Anytype>().ToList<Anytype>();
+                return Set<Anytype>().AsQueryable<Anytype>().ToList<Anytype>();           
         }
 
 
 
     }
-
+    
     public class CustomerEfDal : AbstractTemplateEF<CustomerBase>
     {
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -48,12 +48,12 @@ namespace EfDal
                 .Map<Customer>(m => m.Requires("CustomerType").HasValue("Customer"))
                 .Map<Lead>(m => m.Requires("CustomerType").HasValue("Lead"));
             modelBuilder.Entity<CustomerBase>().Ignore(t => t.Type);
-            // base.OnModelCreating(modelBuilder);
+           // base.OnModelCreating(modelBuilder);
         }
 
-
-
+        
+        
     }
-
-
+  
+   
 }

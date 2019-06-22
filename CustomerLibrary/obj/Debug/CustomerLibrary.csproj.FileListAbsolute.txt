@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\obj\Debug\CustomerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\obj\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\CustomerLibrary\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\CustomerLibrary.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\ICustomerInterface.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\ICustomerInterface.pdb
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\ICustomerInterface.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\obj\Debug\CustomerLibrary.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\obj\Debug\CustomerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\obj\Debug\CustomerLibrary.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+C:\Users\Alecu\source\repos\CustomerComp\CustomerLibrary\obj\Debug\CustomerLibrary.pdb

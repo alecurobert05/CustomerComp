@@ -13,7 +13,7 @@ namespace Facade
         IDataLayer<ICustomer> dal;
         private CustomerBase custOld; // Design pattern :- Memento pattern
         List<ICustomer> custcoll;
-        int SelectedIndex = 0;
+        int SelectedIndex=0;
         public CustomerUiFacade(string DalType)
         {
             dal = FactoryDal<ICustomer>.getDal(DalType);

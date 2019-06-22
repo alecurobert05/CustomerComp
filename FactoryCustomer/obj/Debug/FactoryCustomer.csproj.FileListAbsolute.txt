@@ -1,0 +1,49 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\CustomerLibrary.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\CustomerLibrary.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\obj\Debug\FactoryCustomer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\obj\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\obj\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\Stratergy.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\ValidationStratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\FactoryCustomer\bin\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\obj\Debug\FactoryCustomer.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\obj\Debug\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\obj\Debug\FactoryCustomer.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\FactoryCustomer.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\FactoryCustomer.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\FactoryCustomer.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\CustomerLibrary.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\ICustomerInterface.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\Stratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\ValidationStratergy.dll
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\CustomerLibrary.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\CustomerLibrary.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\ICustomerInterface.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\ICustomerInterface.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\Stratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\Stratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\ValidationStratergy.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\ValidationStratergy.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\obj\Debug\FactoryCustomer.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\FactoryCustomer\obj\Debug\FactoryCustomer.dll

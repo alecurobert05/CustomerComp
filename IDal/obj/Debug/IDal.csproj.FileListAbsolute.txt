@@ -1,0 +1,21 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\bin\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\bin\Debug\IDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\obj\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\obj\Debug\IDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\IDal.dll.config
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\IDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\IDal.pdb
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\CommonServiceLocator.dll
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\EntityFramework.dll
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\Unity.Abstractions.dll
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\Unity.Container.dll
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\EntityFramework.xml
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Alecu\source\repos\CustomerComp\IDal\bin\Debug\Unity.Container.pdb
+C:\Users\Alecu\source\repos\CustomerComp\IDal\obj\Debug\IDal.csprojAssemblyReference.cache
+C:\Users\Alecu\source\repos\CustomerComp\IDal\obj\Debug\IDal.csproj.CoreCompileInputs.cache
+C:\Users\Alecu\source\repos\CustomerComp\IDal\obj\Debug\IDal.csproj.CopyComplete
+C:\Users\Alecu\source\repos\CustomerComp\IDal\obj\Debug\IDal.dll
+C:\Users\Alecu\source\repos\CustomerComp\IDal\obj\Debug\IDal.pdb
