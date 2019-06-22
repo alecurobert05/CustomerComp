@@ -18,7 +18,7 @@ namespace CustomerComp
             // Lasam aceasta sa fie definita de clasele copil
         }
     }
-    public class Customer:CustomerBase
+    public class Customer : CustomerBase
     {
         //"Validate” -> metoda care valideaza propietatile de mai sus 
         public override void Validate()
