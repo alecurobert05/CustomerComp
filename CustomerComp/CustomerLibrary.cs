@@ -6,16 +6,22 @@ using System.Threading.Tasks;
 
 namespace CustomerComp
 {
-    public class Customer
+    public class CustomerBase
     {
         public string CustomerName { get; set; }
         public string PhoneNumber { get; set; }
         public decimal BillAmount { get; set; }
         public DateTime BillDate { get; set; }
         public string Address { get; set; }
-
-        //"Validate” -> metoda care valideaza propietatile de mai sus 
         public virtual void Validate()
+        {
+            // Lasam aceasta sa fie definita de clasele copil
+        }
+    }
+    public class Customer:CustomerBase
+    {
+        //"Validate” -> metoda care valideaza propietatile de mai sus 
+        public override void Validate()
         {
             if (CustomerName.Length == 0)
             {
@@ -35,7 +41,7 @@ namespace CustomerComp
             }
         }
     }
-    public class Lead : Customer
+    public class Lead : CustomerBase
     {
         public override void Validate()
         {
